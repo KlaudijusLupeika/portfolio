@@ -11,7 +11,7 @@
           ></a>
         </div>
         <div class="icon">
-          <a href="https://www.linkedin.com/in/klaudijus-lupeika"
+          <a href="https://www.linkedin.com/in/klaudijus-lupeika" target="_blank"
             ><i class="fab fa-linkedin-in"></i
           ></a>
         </div>

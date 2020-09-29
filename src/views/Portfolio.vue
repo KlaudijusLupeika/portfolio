@@ -12,10 +12,10 @@
             >
           </div>
           <div class="links">
-            <a href="//github.com/itstoocloudy/portfolio"
+            <a href="//github.com/itstoocloudy/portfolio" target="_blank"
               ><i class="fab fa-github"></i
             ></a>
-            <a href="//itstoocloudy-portfolio.netlify.app/"
+            <a href="//itstoocloudy-portfolio.netlify.app/" target="_blank"
               ><i class="fas fa-external-link-alt"></i
             ></a>
           </div>
@@ -35,10 +35,10 @@
             >
           </div>
           <div class="links">
-            <a href="//github.com/itstoocloudy/TodoList"
+            <a href="//github.com/itstoocloudy/TodoList" target="_blank"
               ><i class="fab fa-github"></i
             ></a>
-            <a href="//itstoocloudy-todoapp.netlify.app/"
+            <a href="//itstoocloudy-todoapp.netlify.app/" target="_blank"
               ><i class="fas fa-external-link-alt"></i
             ></a>
           </div>
@@ -60,10 +60,10 @@
             </span>
           </div>
           <div class="links">
-            <a href="//github.com/itstoocloudy/weather-app"
+            <a href="//github.com/itstoocloudy/weather-app" target="_blank"
               ><i class="fab fa-github"></i
             ></a>
-            <a href="//hungry-wright-32e261.netlify.app/"
+            <a href="//hungry-wright-32e261.netlify.app/" target="_blank"
               ><i class="fas fa-external-link-alt"></i
             ></a>
           </div>
@@ -85,10 +85,10 @@
             >
           </div>
           <div class="links">
-            <a href="//github.com/itstoocloudy/pervezkgreitai"
+            <a href="//github.com/itstoocloudy/pervezkgreitai" target="_blank"
               ><i class="fab fa-github"></i
             ></a>
-            <a href="//heuristic-bartik-64c1d9.netlify.app/"
+            <a href="//heuristic-bartik-64c1d9.netlify.app/" target="_blank"
               ><i class="fas fa-external-link-alt"></i
             ></a>
           </div>
@@ -109,7 +109,7 @@
             >
           </div>
           <div class="links">
-            <a href="//www.viskasvaikams.lt"
+            <a href="//www.viskasvaikams.lt" target="_blank"
               ><i class="fas fa-external-link-alt"></i
             ></a>
           </div>
