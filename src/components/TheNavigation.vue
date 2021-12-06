@@ -12,7 +12,7 @@
         >
       </li>
       <li>
-        <a target="_blank" href="//drive.google.com/uc?export=download&id=1XPxl1nESHorbGPZJtvPLc0tZ0skk-ocx" 
+        <a target="_blank" href="//drive.google.com/uc?export=download&id=1spOppeNSOaBaoi0kI_lbg13i6btKeJix" 
           ><hr />
           Resume</a
         >
