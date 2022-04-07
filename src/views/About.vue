@@ -4,26 +4,12 @@
       <h1>About me</h1>
       <br />
       <p>
-        Since the early days, I was always amused by web design. It all started
-        with editing html templates from various websites. While at first it
-        seemed like a fun hobby, I have managed to create one of my first
-        projects - an ecommerce website based on <span>Opencart CMS</span>.
-        After my first project, I have made a decision to acquire a degree and
-        to study <span>Organizational Management BSc</span>. At this stage, I
-        have started to slowly drift away from web development...
+Quality assurance specialist, working as a validation engineer in one of the largest manufacturers of 
+medical devices for respiratory support. Organized and results-oriented individual with expertise in 
+risk management, while following cGMP regulations and meeting ISO standards. Self-learner of test automation 
+and experienced manual tester seeking to boost efficiency in testing, ultimately leading to build software 
+of better quality.
       </p>
-      <br />
-      <p>
-        Fast forward 7 years, here I am - one diploma in my pocket and another
-        one coming up. Since the attraction in web development have never ended,
-        I have decided to acquire another degree - I am a third year student in
-        <span>Computing Technologies BSc</span>, looking forward to make a
-        professional carrer change and step in to IT industry. Today, I enjoy
-        doing front-end development and realised, I can spend countless hours
-        with <span>Vue.js</span> and <span>CSS</span>.
-      </p>
-      <br />
-      <p class="name">Klaudijus</p>
     </div>
   </div>
 </template>
